@@ -15,6 +15,14 @@ To run this project, you'll need to install the following Python libraries:
 
 ```bash
 pip install pandas matplotlib
+```
+
+## Instructions
+
+- Replace your telemetry data csv file under the variable data
+- Replace a hot lap of the same track you had under the variable hot_lap_data
+- Run Program
+- Compare Break % over time
 
 
 
